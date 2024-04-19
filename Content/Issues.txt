@@ -1,0 +1,8 @@
+1) The BT of the enemies: 
+	Sometimes (as when the air enemy attack range is < 100) the decorator returns false and the bt stops. 
+
+2) Sight pawn sensing: 
+	For some reason, the BP_Obstacle doesn't block sight to ai pawn sensing... 
+
+3) Planners: 
+	What's the task exactly? Adding conditions for each bt to act for planner1 and planner2 ?   Make a commander of some kind that limits tasks to other units? i'm not sure
