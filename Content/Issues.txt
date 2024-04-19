@@ -1,7 +1,7 @@
-1) The BT of the enemies: 
+1) The BT of the enemies: ----fixed
 	Sometimes (as when the air enemy attack range is < 100) the decorator returns false and the bt stops. 
 
-2) Sight pawn sensing: 
+2) Sight pawn sensing: ----fixed
 	For some reason, the BP_Obstacle doesn't block sight to ai pawn sensing... 
 
 3) Planners: 
